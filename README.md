@@ -1,4 +1,4 @@
-# vue4
+# vue2-ubuntu
 
 ## Project setup
 ```
